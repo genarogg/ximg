@@ -1,4 +1,4 @@
-# gatsby-plugin-image
+# gatsby-plugin-image-ximg
 
 Adding responsive images to your site while maintaining high performance scores can be difficult to do manually. The Gatsby Image plugin handles the hard parts of producing images in multiple sizes and formats for you!
 
@@ -6,7 +6,7 @@ For full documentation on all configuration options, see [the Gatsby Image Plugi
 
 ## Contents
 
-- [gatsby-plugin-image](#gatsby-plugin-image)
+- [gatsby-plugin-image-ximg](#gatsby-plugin-image-ximg)
   - [Contents](#contents)
   - [Installation](#installation)
   - [Using the Gatsby Image components](#using-the-gatsby-image-components)
